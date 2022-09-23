@@ -1,0 +1,14 @@
+{
+    "name": "j5rojo/rtkontent",
+    "description": "Prueba técnica para consultar Kontent delivery rest api",
+    "authors": [
+        {
+            "name": "Jesus Bolivar",
+            "email": "j5rojo94@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+        "kontent-ai/delivery-sdk-php": "^6.0.0",
+    }
+}
